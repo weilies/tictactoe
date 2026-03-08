@@ -141,7 +141,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-zinc-900 text-zinc-100 flex flex-col items-center justify-center gap-8 p-8">
-      <h1 className="text-4xl font-bold tracking-tight">Tic Tac Toe</h1>
+      <h1 className="text-4xl font-bold tracking-tight">Funko TTT</h1>
 
       {/* Mode toggle */}
       <div className="flex gap-2 bg-zinc-800 p-1 rounded-lg">
